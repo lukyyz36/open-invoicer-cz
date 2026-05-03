@@ -24,7 +24,7 @@ Pro správné fungování generování PDF a ukládání konfigurace nastavte pr
 
    Bash
    chmod -R 775 storage/
-   # nebo
+   nebo
    chmod -R 775 invoices/
 
 4. Spuštění
