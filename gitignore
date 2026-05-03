@@ -1,0 +1,7 @@
+/vendor/
+/storage/invoices/*.pdf
+/storage/settings.json
+config.json
+invoices/
+*.log
+.DS_Store
